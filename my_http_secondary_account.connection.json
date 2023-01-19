@@ -1,0 +1,6 @@
+{
+  "name": "My HTTP secondary account",
+  "provider": "rest_secondary",
+  "secure_gateway_tunnel_name": null,
+  "root_folder": false
+}
